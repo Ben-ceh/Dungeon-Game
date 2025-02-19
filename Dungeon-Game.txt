@@ -1,0 +1,96 @@
+Játékosunk neve:[?]
+Játékos story:
+[?] Goldberg a neve!
+És a Goldberg családból származik aki, egy nagy hatalmú keleti birodalom. 
+[?] nagy hatalmú családból származik, amely nagy keleti kontinens uralkodója. 
+
+Játék story:
+Isabella királynő aki meg szerette volna látogatni a Goldberg királyságot.
+Egy borzasztóan jó rajtaütésen estek át és foglyul esett a szörnyek által akik a hirhedt északi hegyekbe vihették és [?] Goldberg útána eredt rögvest a szörnyek után.
+
+A barlang storya:
+Tele van felismerhetetlen szörnyekkel és teremtményekel de vigaszul a barlang legmélyebb pontján lehet Isabella királynő...
+
+Játékos Statja:
+hp: 300
+dmg: 50
+
+
+Játékos:|		Mobs:|
+
+HP:300			HP:100	*1,30
+DMG:50			DMG:50	*1,15	= 57,5*1,15 = 66,125*1,15 = 99,1875*1,15 = 131,175
+
+____________
+Mobs Wave 1:
+[3]
+hp:100
+dmg:50
+Chest:13 Gold
+____________
+Mobs Wave 2:
+[3]
+hp:100	
+dmg:50
+Chest:13 Gold
+____________
+Mobs Wave 3:
+[3]
+hp:100
+dmg:50
+Chest:13 Gold
+____________
+Mobs Wave 4:
+[3]
+hp:100
+dmg:50
+Chest:13 Gold
+____________
+Mobs Wave |Mini Boss|:
+[3]
+hp:100
+dmg:50
+Chest:13 Gold
+____________
+Mobs Wave 6:
+[3]
+hp:100
+dmg:50
+Chest:13 Gold
+____________
+Mobs Wave 7:
+[3]
+hp:100
+dmg:50
+Chest:13 Gold
+____________
+Mobs Wave 8:
+[3]
+hp:100
+dmg:50
+Chest:13 Gold
+____________
+Mobs Wave 9:
+[3]
+hp:100
+dmg:50
+Chest:13 Gold
+____________
+Mobs Wave MiniBoss:
+[3]
+hp:100
+dmg:50
+Chest:13 Gold
+____________
+Mobs Wave |Final Boss|:
+[3]
+hp:100
+dmg:50
+Chest:13 Gold
+
+
+
+
+[ Inventory(Bármikor Megnézheti A Hátitáskát),Chests(Arany Wave Végén),
+MiniBoss(Minden 5. Wave Egy MiniBoss),Nem Talált Az Ütés(Random Változóval),
+Bolt(Minden Wave Végén),Kritikus Sebzés(Egy Random Változóval Megoldani) ]
